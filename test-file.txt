@@ -1,3 +1,5 @@
 ### Testing git file.  Edit file to recreate git scenarios###
 
 Nate - First commit with file
+
+Adding a change to master before merging TestBranch1
