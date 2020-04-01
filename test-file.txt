@@ -2,9 +2,6 @@
 
 Nate - First commit with file
 
-<<<<<<< HEAD
 Adding a change to master before merging TestBranch1
-=======
 Added line on TestBranch1
 
->>>>>>> TestBranch1
