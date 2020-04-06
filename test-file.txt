@@ -5,8 +5,8 @@ Nate - First commit with file
 Adding a change to master before merging TestBranch1
 Added line on TestBranch
 
-Adding a test line - M
+Adding a test line - Michael
 Adding a second line because idk. 
 
-Added a line while M has master pulled down
+Added a line while Michael has master pulled down
 
